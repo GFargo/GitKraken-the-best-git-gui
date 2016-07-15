@@ -14,7 +14,11 @@ Check out the [features list](https://www.gitkraken.com/features) on the GitKrak
 
 ### Better Commits
 
-Stage individual chunks one at a time within a single file to create logical commits instead of staging the entire file.
+Forget about `git add .` and start staging individual lines or entire chunks within a single file to create logical commits instead of staging the entire file.
+
+### Longer Commit Messages
+
+GitKraken makes it easy to add detailed comments on each commit, instead of just a single commit message. 
 
 ### Fuzzy Search
 
@@ -24,12 +28,27 @@ GitKraken features a powerful [fuzzy search](https://blog.axosoft.com/2016/04/28
 
 ### Squash Multiple Commits
 
+![](https://blog.axosoft.com/wp-content/uploads/2016/06/gk-pro-tip-squash1.gif)
 
 ### Merge How You Want
+
+#### Drag and Drop
 
 ### Flexible UI
 
 Because GitKraken is built upon web technologies it excels at adapting to different dimenions.  You can even scale down the interface if you are working on a smaller laptop screen to free up additional screen realestate.
+
+![](https://blog.axosoft.com/wp-content/uploads/2016/06/gk-zoom.gif)
+
+#### Focus on what's important
+
+GitKraken allows you to *solo* individual branches and focus on the commits specific to the branch you are working with.
+
+![](https://blog.axosoft.com/wp-content/uploads/2016/06/soloing-1.gif)
+
+#### Simplify Commit Tree
+
+![](https://blog.axosoft.com/wp-content/uploads/2016/06/gk-graph-resize.gif)
 
 ### Built in Merge Tool
 
