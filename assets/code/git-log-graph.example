@@ -1,0 +1,22 @@
+$ git log --pretty=format:"%h %s" --graph
+
+*   1fd6746 Merge branch 'production'
+|\
+| *   f742f7d Merge pull request #499 from alleyinteractive/bug/CIR-264-guest-authors-not-displaying-on-fe
+| |\
+| | * 2ddfb59 bump `posts_per_page` limit for reveal_staff_query
+| * |   53084fc Merge pull request #496 from alleyinteractive/CIR-259-cli-emails
+| |\ \
+| | |/
+| |/|
+| | *   425dd0a remove idea turd
+| | |\
+| | | * 69da34f Update workspace.xml
+| | | * 31aa351 Update workspace.xml
+| | * | 5296441 remove idea turd
+| | |/
+| | * c7f3468 make script more verbose
+| | * 1747b6b updates to script
+| | * 5d51896 success line
+| | * 2691a2f added more info to output
+| | * 2bbae63 minor standards fix

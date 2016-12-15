@@ -1,0 +1,19 @@
+###### Git Utility Commands ######
+
+parse_git_branch() {
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'
+}
+
+parse_git_repo() {
+    git config --get remote.origin.url | sed -e "s/^git@github.com://" -e "s/.git//"
+}
+
+# Compare current branch with passed branch
+git_cpr() {
+    base_branch="${1:-master}"
+    open "https://github.com/$(parse_git_repo)/compare/$base_branch...$(parse_git_branch)";
+}
+
+
+
+$ git_cpr master

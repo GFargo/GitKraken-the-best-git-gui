@@ -1,0 +1,17 @@
+$ git log
+
+---
+
+commit 2dca17fdb1c1f071bdf9f62a60df84c96f7eeb32
+Author: Griffen Fargo griffen@alleyinteractive.com
+Date:   Tue Dec 13 11:48:26 2016 -0500
+
+    updates escaping / adds wp_kses per CR feedback
+
+
+# Different Flavors
+
+$ git log -p -2
+$ git log --stat
+$ git log --pretty=oneline
+$ git log --pretty=format:"%h - %an, %ar : %s"

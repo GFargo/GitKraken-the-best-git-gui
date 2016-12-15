@@ -1,0 +1,16 @@
+$ git add --interactive
+
+
+Result:
+---
+		 staged     unstaged path
+  1:    unchanged        +6/-6 .travis.yml
+  2:    unchanged        +2/-2 404.php
+  3:    unchanged        +6/-6 README.md
+  4:    unchanged        +3/-3 client/README.md
+Update>>
+
+*** Commands ***
+  1: status	  2: update	  3: revert	  4: add untracked
+  5: patch	  6: diff	  7: quit	  8: help
+What now>

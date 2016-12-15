@@ -1,0 +1,22 @@
+$ git add --patch
+
+
+Result:
+---
+
+
+diff --git a/client/grunt/addtextdomain.json b/client/grunt/addtextdomain.json
+index 34583b4..1842c51 100644
+--- a/client/grunt/addtextdomain.json
++++ b/client/grunt/addtextdomain.json
+@@ -1,6 +1,6 @@
+ {
+   "options": {
+-    "textdomain": "wp-starter-theme"
++    "textdomain": "theme-slug"
+   },
+   "target": {
+     "files": {
+
+
+Stage this hunk [y,n,q,a,d,/,e,?]?
