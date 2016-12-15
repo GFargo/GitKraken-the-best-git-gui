@@ -1,7 +1,18 @@
 # GIT HAPPENS
 
+Optimizing git workflows is all about using whatever tool feels right for you.
 
 
+
+### Additional Resouces:
+
+* <a href="https://gitkraken.com">GitKraken Website</a>
+* <a href="https://githowto.com">GitHowTo.com</a>
+* <a href="http://ohshitgit.com/">OhSh*tGit.com</a>
+* <a href="https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/git/git.plugin.zsh">oh-my-zsh git plugin</a>
+* <a href="http://codetunnel.io/tips-for-working-with-git/">CodeTunnel: Tips for Working with Git</a>
+* <a href="https://github.com/git-tips/tips">@git-tips: tips</a>
+* <a href="https://github.com/arslanbilal/git-cheat-sheet">@arslanbilal: git cheat sheet</a>
 
 
 
